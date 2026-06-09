@@ -1,0 +1,16 @@
+                precision    recall  f1-score   support
+
+      Among Us       0.99      0.99      0.99       150
+  Apex Legends       0.97      0.96      0.97       150
+      Fortnite       0.99      0.95      0.97       150
+ Forza Horizon       0.97      0.99      0.98       150
+     Free Fire       0.99      0.98      0.98       150
+Genshin Impact       0.94      1.00      0.97       150
+    God of War       1.00      1.00      1.00       150
+     Minecraft       1.00      0.99      1.00       150
+        Roblox       0.98      0.97      0.98       150
+      Terraria       1.00      0.99      1.00       150
+
+      accuracy                           0.98      1500
+     macro avg       0.98      0.98      0.98      1500
+  weighted avg       0.98      0.98      0.98      1500

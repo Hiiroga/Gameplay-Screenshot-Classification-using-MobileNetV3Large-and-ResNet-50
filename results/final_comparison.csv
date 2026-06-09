@@ -1,0 +1,2 @@
+model,test_loss,test_accuracy,macro_precision,macro_recall,macro_f1_score,weighted_precision,weighted_recall,weighted_f1_score
+ResNet50,0.06328897923231125,0.9819999933242798,0.9822910191623888,0.982,0.982004474794645,0.9822910191623887,0.982,0.9820044747946453

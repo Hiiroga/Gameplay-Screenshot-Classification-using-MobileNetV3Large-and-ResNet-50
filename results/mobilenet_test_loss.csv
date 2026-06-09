@@ -1,0 +1,2 @@
+model,test_loss,test_accuracy
+MobileNetV3Large,0.17771142721176147,0.9526666402816772
